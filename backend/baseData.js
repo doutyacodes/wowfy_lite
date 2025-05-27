@@ -1,0 +1,12 @@
+// export const baseURL ="https://wowfy.in/wowfy/api";
+// export const baseImgURL ="https://wowfy.in/wowfy/photos/";
+// export const baseVidUrl ="https://wowfy.in/wowfy/videos/";
+export const baseURL ="https://wowfy.in/wowfylite/api";
+export const baseImgURL ="https://wowfy.in/wowfylite/photos/";
+export const baseVidUrl ="https://wowfy.in/wowfylite/videos/";
+// export const baseURL ="http://192.168.1.11/Zen/Wowfy-api-projects/wowfy-location/api";
+// export const baseImgURL ="http://192.168.1.11/Zen/Wowfy-api-projects/wowfy-location/photos/";
+// export const baseVidUrl ="http://192.168.1.11/Zen/Wowfy-api-projects/wowfy-location/videos/";
+// export const baseURL ="http://172.20.10.4/Zen/Wowfy-api-projects/wowfy-location/api";
+// export const baseImgURL ="http://172.20.10.4/Zen/Wowfy-api-projects/wowfy-location/photos/";
+// export const baseVidUrl ="http://172.20.10.4/Zen/Wowfy-api-projects/wowfy-location/videos/";

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553276527910",
+    "project_id": "wowfy-e618d",
+    "storage_bucket": "wowfy-e618d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553276527910:android:a2f449d3229a6961d09de7",
+        "android_client_info": {
+          "package_name": "com.wowfy.wowfy_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARyoSqxo7rqljrIFQe_WIcB6V3Csn0WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
