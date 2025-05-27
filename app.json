@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Wowfy Lite",
-    "slug": "wowfy_Lites",
+    "slug": "wowfy_Lite",
     "plugins": [
       "react-native-background-fetch",
       [
@@ -93,14 +93,14 @@
         "android.permission.READ_CONTACTS",
         "android.permission.WRITE_CONTACTS"
       ],
-      "package": "com.doutyacode.wowfy_Lites"
+      "package": "com.wowfy.wowfy_user"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "39d452df-2176-46b2-8f67-e9b38a723617"
+        "projectId": "6214e357-0da1-496c-96ab-f806db3562b8"
       }
     }
   }
